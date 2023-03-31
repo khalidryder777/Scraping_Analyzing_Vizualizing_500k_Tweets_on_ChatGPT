@@ -1,3 +1,3 @@
-# Scraping_Analyzing_Vizualizing_100k_Tweets_on_ChatGPT
+# Scraping_Analyzing_Vizualizing_500k_Tweets_on_ChatGPT
 
 
